@@ -1,7 +1,7 @@
 ### <h2 align="center"><img src="https://github.com/sansProg/sansProg/blob/main/Hi.gif" width="30"> Hey , I am Sanskar. </h2>
 
 <p align="center">
-  <a href="https://sansprog.github.io/Portfolio/"><img src="https://github.com/sansProg/sansProg/blob/main/websiteimg.png" width="800"></a>
+  <a href="https://sansprog.github.io/Portfolio/"><img src="https://github.com/sansProg/sansProg/blob/main/websiteimg.png" width="700"></a>
 </p>
 
 <h4 align="center"><a href="https://sansprog.github.io/Portfolio/#contact"> Connect with me 💬</a></h4>
