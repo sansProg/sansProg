@@ -1,8 +1,10 @@
-### <h1><img src="https://github.com/sansProg/sansProg/blob/main/Hi.gif" width="30"> Hey , I am Sanskar. </h1>
+### <h2 align="center"><img src="https://github.com/sansProg/sansProg/blob/main/Hi.gif" width="30"> Hey , I am Sanskar. </h2>
 
-<a href="https://sansprog.github.io/Portfolio/"><img src="https://github.com/sansProg/sansProg/blob/main/websiteimg.png" width="viewport"></a>
+<p align="center">
+  <a href="https://sansprog.github.io/Portfolio/"><img src="https://github.com/sansProg/sansProg/blob/main/websiteimg.png" width="800"></a>
+</p>
 
-<h3><a href="https://sansprog.github.io/Portfolio/#contact"> Connect with me 💬</a></h4>
+<h4 align="center"><a href="https://sansprog.github.io/Portfolio/#contact"> Connect with me 💬</a></h4>
 <!--
 **sansProg/sansProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
