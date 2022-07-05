@@ -1,5 +1,4 @@
-### Hi there 👋
-![Hi](https://user-images.githubusercontent.com/101720291/177352553-1b294476-ebc0-4a3f-a945-78f1df05ef00.gif)
+### Hey ![Hi](https://user-images.githubusercontent.com/101720291/177352553-1b294476-ebc0-4a3f-a945-78f1df05ef00.gif), I am Sanskar.
 
 
 <!--
