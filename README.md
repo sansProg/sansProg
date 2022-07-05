@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Hi](https://user-images.githubusercontent.com/101720291/177352553-1b294476-ebc0-4a3f-a945-78f1df05ef00.gif)
+
 
 <!--
 **sansProg/sansProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
